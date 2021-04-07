@@ -2,6 +2,26 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Kingdom Hearts Final Mix</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Denhonator/KHPCSpeedrunTools/main/LoadRemovers/KH1.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>PC only. Loadless timer and auto splitter by Denhonator</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+        		<Game>Kingdom Hearts III</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Denhonator/KHPCSpeedrunTools/main/LoadRemovers/KH3.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>PC only. Loadless timer and auto splitter by Denhonator</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Need for Speed: Most Wanted (2005)</Game>
     		</Games>
     		<URLs>
